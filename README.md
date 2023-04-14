@@ -8,7 +8,7 @@
 
 ---
 
-## 计算机入门
+## 基础课程
 
 ### C/C++
 
@@ -24,6 +24,10 @@
 
 ### 计算机体系结构
 
+### 线性代数
+
+* [MIT]()
+
 ## 编程进阶
 
 ### 深度学习
@@ -36,6 +40,21 @@
 
 ### shell
 
+* [玩转Linux命令行](https://www.bilibili.com/medialist/detail/ml962290252?type=2)
+
 ### vim
 
+* [](https://www.bilibili.com/video/BV1vi4y1t77y)
+
 ### docker
+
+## 科研
+
+* [如何读论文（李沐）](https://www.bilibili.com/video/BV1H44y1t75x)
+
+## 岁月史书&编程思想
+
+* [里查德斯托曼自由软件介绍](https://www.bilibili.com/video/BV1bL4y1W7D8)
+* [创始人聊Python的故事](https://www.bilibili.com/video/BV1uE411y7bX)
+* [Linux背后的思想](https://www.bilibili.com/video/BV1w7411Z71f)
+* [代码美学](https://space.bilibili.com/1629390/channel/collectiondetail?sid=1068921&ctype=0)
