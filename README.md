@@ -52,7 +52,7 @@
 
 ### vim
 
-* [](https://www.bilibili.com/video/BV1vi4y1t77y)
+* [【大学计算机不会教的知识】Ep.3编辑器 Vim](https://www.bilibili.com/video/BV1vi4y1t77y)
 
 ### docker
 
@@ -69,6 +69,10 @@
 
 ## 学校技术社团讲座系列
 
-* [NAOSI-DLUT](https://space.bilibili.com/1058346981)
+* [NAOSI-DLUT](https://space.bilibili.com/1058346981) | [NAOSI Online Courses](https://github.com/NAOSI-DLUT/Online-Talk)
 * [TUNA Tunight](https://tuna.moe/events/)
-* 
+* [THUasta 清华大学自动化系学生科协](https://space.bilibili.com/676450636)
+* [上海交通大学IPADS](https://space.bilibili.com/1085720801/channel/collectiondetail?sid=78079&ctype=0)
+* [ZJU 实用技能拾遗](https://space.bilibili.com/171431343/channel/collectiondetail?sid=1213483)
+* [MIT The Missing Semester of Your CS Education 2020](https://www.bilibili.com/video/BV1x7411H7wa)
+* [大学计算机不会教的知识 老码农的工具箱](https://space.bilibili.com/469337/channel/seriesdetail?sid=925271&ctype=0)
