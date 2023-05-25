@@ -76,3 +76,4 @@
 * [ZJU 实用技能拾遗](https://space.bilibili.com/171431343/channel/collectiondetail?sid=1213483)
 * [MIT The Missing Semester of Your CS Education 2020](https://www.bilibili.com/video/BV1x7411H7wa)
 * [大学计算机不会教的知识 老码农的工具箱](https://space.bilibili.com/469337/channel/seriesdetail?sid=925271&ctype=0)
+* [北京大学Linux俱乐部 LCPU](https://space.bilibili.com/3461562830424779/)
