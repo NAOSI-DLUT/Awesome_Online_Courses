@@ -9,10 +9,7 @@
 ### C/C++
 
 * [浙大翁恺C语言](url)
-
-> nickname: 最推荐的编程入门，老师会介绍语法的同时把一些思想渗透进去balabala
-
-> nickname: 我也是听这个课学的，最后考了100分
+* [gcc&gdb](https://www.bilibili.com/video/BV1dP411Q7eJ)
 
 ### 数据结构
 
