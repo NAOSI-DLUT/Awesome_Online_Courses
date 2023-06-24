@@ -67,7 +67,7 @@
 
 * [NAOSI-DLUT](https://space.bilibili.com/1058346981) | [NAOSI Online Courses](https://github.com/NAOSI-DLUT/Online-Talk)
 * [TUNA Tunight](https://tuna.moe/events/)
-* [THUasta 清华大学自动化系学生科协](https://space.bilibili.com/676450636)
+* [THUasta 清华大学自动化系学生科协](https://space.bilibili.com/676450636) | [网站主页](https://thuasta.cn/#/)
 * [上海交通大学IPADS](https://space.bilibili.com/1085720801/channel/collectiondetail?sid=78079&ctype=0)
 * [ZJU 实用技能拾遗](https://space.bilibili.com/171431343/channel/collectiondetail?sid=1213483)
 * [MIT The Missing Semester of Your CS Education 2020](https://www.bilibili.com/video/BV1x7411H7wa)
