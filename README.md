@@ -24,6 +24,15 @@
 
 * [MIT](https://www.bilibili.com/video/BV1ix411f7Yp)
 
+### 计算机网络
+
+* CS144
+  * [官网](https://cs144.github.io/)
+  * [slides](https://github.com/khanhnamle1994/computer-networking)
+  * [videos](https://www.bilibili.com/video/BV137411Z7LR)
+* MIT 6.829
+  * [官网](https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/)
+
 ## 编程进阶
 
 ### 深度学习
@@ -34,6 +43,22 @@
 ### 图形学
 
 * [李飞飞 计算机视觉](https://www.bilibili.com/video/BV1nJ411z7fe)
+
+### 分布式系统
+
+* MIT 6.824
+  * [官网](https://pdos.csail.mit.edu/6.824/)
+  * [schedule](https://pdos.csail.mit.edu/6.824/schedule.html)
+  * [videos](https://www.youtube.com/@6.824)
+> **Description**
+>
+> This course, the same as MIT 6.S081, comes from the renowned MIT PDOS Lab. The instructor, Professor Robert Morris, was once a famous hacker who created 'Morris', the first worm virus in the world.
+> 
+> Each lecture will discuss a classic paper in the field of distributed systems, teaching you the important principles and key techniques of distributed systems design and implementation. The Project is known for its difficulty. In four programming assignments, you will implement a KV-store framework step by step based on the Raft consensus algorithm, allowing you to experience the randomness and complexity to implement and debug a distributed system.
+> 
+> This course is so famous that you can easily have access to the project solutions on the Internet. It is highly recommended to implement the projects on your own.
+> 
+> From [CSDIY.wiki](https://csdiy.wiki/en/%E5%B9%B6%E8%A1%8C%E4%B8%8E%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/MIT6.824/)
 
 ### SDN
 
