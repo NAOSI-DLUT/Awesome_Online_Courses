@@ -44,8 +44,9 @@
 
 * [李飞飞 计算机视觉](https://www.bilibili.com/video/BV1nJ411z7fe)
 * [Tiny Renderer or how OpenGL works](https://github.com/ssloy/tinyrenderer/)
-> **简介**
 > 此项目使用C++语言实现了一个简单的软渲染器，共计约500行代码，旨在介绍OpenGL背后的图形绘制算法实现。
+* [Introduction to Shaders: Learn the Basics!](https://www.youtube.com/watch?v=3mfvZ-mdtZQ)
+> 着色器入门：学习基础概念！
 
 ### 分布式系统
 
