@@ -54,6 +54,10 @@
   * [官网](https://pdos.csail.mit.edu/6.824/)
   * [schedule](https://pdos.csail.mit.edu/6.824/schedule.html)
   * [videos](https://www.youtube.com/@6.824)
+  * [Lab 1: MapReduce](http://nil.csail.mit.edu/6.5840/2023/labs/lab-mr.html)
+  * [Lab 2: Raft](http://nil.csail.mit.edu/6.5840/2023/labs/lab-raft.html)
+  * [Lab 3: Fault-tolerant Key/Value Service](http://nil.csail.mit.edu/6.5840/2023/labs/lab-kvraft.html)
+  * [Lab 4: Sharded Key/Value Service](http://nil.csail.mit.edu/6.5840/2023/labs/lab-shard.html)
 > **Description**
 >
 > This course, the same as MIT 6.S081, comes from the renowned MIT PDOS Lab. The instructor, Professor Robert Morris, was once a famous hacker who created 'Morris', the first worm virus in the world.
