@@ -32,6 +32,10 @@
   * [videos](https://www.bilibili.com/video/BV137411Z7LR)
 * MIT 6.829
   * [官网](https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/)
+ 
+### 编译原理
+* [LLVM tutorial in the Rust language](https://github.com/jauhien/iron-kaleidoscope)
+> 此项目为编译器教程，用到Rust语言和LLVM后端。
 
 ## 编程进阶
 
