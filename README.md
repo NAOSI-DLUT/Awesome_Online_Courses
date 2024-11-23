@@ -8,7 +8,7 @@
 
 ### C/C++
 
-* [浙大翁恺C语言](url)
+* [浙大翁恺C语言](https://search.bilibili.com/all?keyword=%E6%B5%99%E5%A4%A7%E7%BF%81%E6%81%BAc%E8%AF%AD%E8%A8%80)
 * [gcc&gdb](https://www.bilibili.com/video/BV1dP411Q7eJ)
 
 ### 数据结构
@@ -26,12 +26,17 @@
 
 ### 计算机网络
 
+* [Network Lessons](https://networklessons.com/)
+* [CCNA Tutorial](https://www.geeksforgeeks.org/ccna-tutorial-for-beginners)
+* [HCIE](https://geekdaxue.co/read/lcheng@hcie/fx0ekx16wZyNXpw3)
 * CS144
   * [官网](https://cs144.github.io/)
   * [slides](https://github.com/khanhnamle1994/computer-networking)
   * [videos](https://www.bilibili.com/video/BV137411Z7LR)
 * MIT 6.829
   * [官网](https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/)
+ 
+> 从科研需求的角度来说，前三个以及个别 coursera 课程更适合作为计算机网络的学习资料。如果你不是做计算机网络方向的研究，更建议看 *Top Down* 大黑书和 MIT 等高校的课程。
  
 ### 编译原理
 * [LLVM tutorial in the Rust language](https://github.com/jauhien/iron-kaleidoscope)
